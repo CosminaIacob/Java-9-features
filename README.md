@@ -45,7 +45,7 @@ REPL = Read Eval Print Loop
 
 ![image](https://github.com/CosminaIacob/Java-9-features/assets/18678681/39fb66e3-90a3-4c2d-adf4-e7fad71974ba)
 
-<li> **Set** is an interface that extends the collection class and is an unordered collection of objects in which duplicate values cannot be stored</li>
+<li> __Set__ is an interface that extends the collection class and is an unordered collection of objects in which duplicate values cannot be stored</li>
 <li> Create a set before and after Java 9: </li>
 
 ![image](https://github.com/CosminaIacob/Java-9-features/assets/18678681/f1282dac-8cbc-4ccd-836f-a76be08a62ac)
