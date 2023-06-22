@@ -58,6 +58,16 @@ REPL = Read Eval Print Loop
 
 ![image](https://github.com/CosminaIacob/Java-9-features/assets/18678681/e8f6d521-9cdd-4ce2-a0dc-2a8ad39820f8)
 
+<li>This helps to reduce the amount of code</li>
+
+## 3. HTTP/2 Client
+
+<li>This feature is expected to change or be removed in the following releases.</li>
+<li>Earlier developers often used third-party libraries like Apache HTTP.</li>
+<li>Java's HTTP API is HTTP 1.1 and this was hard to maintain.</li>
+Benefits of HTTP 2:
+<li>A simple and concise API to deal with most HTTP requests.</li>
+
 
 
 
