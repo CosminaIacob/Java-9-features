@@ -38,6 +38,21 @@ REPL = Read Eval Print Loop
 
 ![image](https://github.com/CosminaIacob/Java-9-features/assets/18678681/99b2751e-21e0-405b-ad47-2e2e3ff20b7b)
 
+## 2. Collection Factory Methods
+
+<li>Java 9 has added new static factory methods on list, set, and map interfaces</li>
+<li>this makes it easier to create immutable instances of these collections</li>
+
+![image](https://github.com/CosminaIacob/Java-9-features/assets/18678681/39fb66e3-90a3-4c2d-adf4-e7fad71974ba)
+
+<li>**Set** is an interface which extends the collection class and is an unordered collection of objects in which duplicate values cannot be stored</li>
+<li>create a set before and after Java 9: </li>
+
+![image](https://github.com/CosminaIacob/Java-9-features/assets/18678681/f1282dac-8cbc-4ccd-836f-a76be08a62ac)
+
+
+
+
 
 
 
