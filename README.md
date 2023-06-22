@@ -65,8 +65,30 @@ REPL = Read Eval Print Loop
 <li>This feature is expected to change or be removed in the following releases.</li>
 <li>Earlier developers often used third-party libraries like Apache HTTP.</li>
 <li>Java's HTTP API is HTTP 1.1 and this was hard to maintain.</li>
-Benefits of HTTP 2:
+
+###### Benefits of the new HTTP client API:
 <li>A simple and concise API to deal with most HTTP requests.</li>
+<li>Support for HTTP/2 specification.</li>
+<li>Better performance.</li>
+<li>Better security.</li>
+<li>Other enhancements.</li>
+
+## 4. Project Jigsaw - Modularity
+
+<li>It is trying to help to achieve the concept of modularity.</li>
+<li>It adds support for the creation of modules in Java.</li>
+<li>This is the modularization of the Java JDK.</li>
+
+###### Key features:
+<li> **Strong encapsulation**: the modules can access only those parts of the module that have been made available for use. TODO: add example</li>
+<li> **Clear dependencies**: provides the basis for a reliable configuration of modules. </li>
+<li> **Reliable**: applications are more reliable by eliminating run-time errors. </li>
+
+![image](https://github.com/CosminaIacob/Java-9-features/assets/18678681/2df40240-f563-4862-b3eb-a1f0cab79627)
+
+
+
+
 
 
 
